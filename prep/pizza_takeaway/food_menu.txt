@@ -1,0 +1,12 @@
+P1;Margherita;3
+P2;Chicago;3.5
+P3;Greek;3
+P4;California;3.5
+P5;Farm house;3
+B1;Thin crust;1
+B2;Thick Crust;1.5
+B3;Cheese burst;2
+T1;Olives;0.5
+T2;Extra Cheese;0.5
+T3;Mushrooms;0.5
+T4;Green peppers;0.5
